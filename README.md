@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ---  
 <h1 align="center">Hi there, I'm Josefina🌼</h1>
-<p align="center">I consider myself an artist with a degree in Translation, who is currently working to become a programmer.</p>
+<p align="center">I'm an artist with a degree in Translation, working on Programming.</p>
 
 <div align="center"> 
   
